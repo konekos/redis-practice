@@ -1,2 +1,1 @@
-# redis-practice
-wwwww
+鄙陋地学习redis
